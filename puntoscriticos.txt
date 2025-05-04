@@ -1,1 +1,5 @@
 git remote set-url origin https://github.com/infraestructura-it/nuevo-repo.git
+remover el remoto
+
+git remote remove origin
+git remote add origin https://github.com/usuario/nuevo-repo.git
